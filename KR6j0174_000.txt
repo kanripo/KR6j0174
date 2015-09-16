@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說大金色孔雀王經
+#+DATE: 2015-08-30 20:27:16.970362
+#+PROPERTY: JUAN 0

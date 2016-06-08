@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:27:16.791735
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:28
 #+TITLE: 佛說大金色孔雀王呪經
 #+PROPERTY: CBETA_ID T19n0987
 #+PROPERTY: ID KR6j0174
@@ -245,7 +245,7 @@ No.987¶
 　南無檀摩斯　南無僧伽斯　因地祇薩¶
 　復闍比丘　悉波訶¶
 
-佛說咒賊經
+* 佛說咒賊經
 :PROPERTIES:
 :head: 佛說呪賊經
 :END:
@@ -270,7 +270,7 @@ No.987¶
 七遍。乃吉。合號利離鬼子王得福德。為然七¶
 燈乃燒香散華。¶
 
-法華神咒經
+* 法華神咒經
 :PROPERTIES:
 :head: 法華神呪經
 :END:
